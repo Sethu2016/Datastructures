@@ -1,6 +1,6 @@
 package com.stack;
 
-import java.util.LinkedList;
+import com.practice.Node;
 
 
 public class StackLinkedList {

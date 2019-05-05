@@ -1,4 +1,4 @@
-package com.stack;
+package com.practice;
 
 public class Node{
     public Object value;
